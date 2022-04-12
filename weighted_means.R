@@ -25,5 +25,15 @@ interprofile(hypso[,1:2], pcm1$depth, hypso$depth, min.valid.meas=0, date.column
 
 
 
+#git
+library(usethis)
+usethis::use_github()
+
+
+
+
+
+
+
 
 
